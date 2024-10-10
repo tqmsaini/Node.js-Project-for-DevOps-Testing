@@ -1,0 +1,7 @@
+devops-nodejs-app/
+├── Dockerfile
+├── Jenkinsfile (optional)
+├── package.json
+├── app.js
+├── test/
+    └── test.js
